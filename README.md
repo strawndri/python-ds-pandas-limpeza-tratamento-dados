@@ -13,7 +13,7 @@
 
 ## Sobre o projeto
 
-Projeto de especialização em análise de dados desenvolvido durante a realização do curso [Pandas: limpeza e tratamento de dados](https://cursos.alura.com.br/course/pandas-limpeza-tratamento-dados), ministrado pela instrutora [Bruno Raphael](https://www.linkedin.com/in/bruno-raphaell-alves-de-matos/). A partir desse projeto, será trabalhado os processos de limpeza e tratamento de dados com a biblioteca Pandas.
+Projeto de especialização em análise de dados desenvolvido durante a realização do curso [Pandas: limpeza e tratamento de dados](https://cursos.alura.com.br/course/pandas-limpeza-tratamento-dados), ministrado pelo instrutor [Bruno Raphael](https://www.linkedin.com/in/bruno-raphaell-alves-de-matos/). A partir desse projeto, será trabalhado os processos de limpeza e tratamento de dados com a biblioteca Pandas.
 
 ## Aprendizagens
 
